@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://NetoRibeiro.github.io/notes-0u5f1i/sitemap.xml
